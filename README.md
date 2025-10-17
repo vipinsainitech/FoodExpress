@@ -1,2 +1,0 @@
-# FoodExpress
-Demo app
